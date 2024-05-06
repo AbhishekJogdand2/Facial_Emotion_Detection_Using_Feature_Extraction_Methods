@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7877450-8ccf-49e5-b939-c5b45a784018" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Knn_LBP_new.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FacialEmotionClassificationUsingQuantumCNN/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../FacialEmotionClassificationUsingQuantumCNN/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FacialEmotionClassificationUsingQuantumCNN/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../FacialEmotionClassificationUsingQuantumCNN/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FacialEmotionClassificationUsingQuantumCNN/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../FacialEmotionClassificationUsingQuantumCNN/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FacialEmotionClassificationUsingQuantumCNN/notebook/KNN_FACE_EMOTION CLASSIFIER.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../FacialEmotionClassificationUsingQuantumCNN/notebook/KNN_FACE_EMOTION CLASSIFIER.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FacialEmotionClassificationUsingQuantumCNN/upload/1655225512092.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/.ipynb_checkpoints/KNN_FACE_EMOTION CLASSIFIER-Copy1-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/.ipynb_checkpoints/KNN_FACE_EMOTION CLASSIFIER-Copy2-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/.ipynb_checkpoints/Q-KNN-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/KNN_FACE_EMOTION CLASSIFIER-Copy1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/KNN_FACE_EMOTION CLASSIFIER-Copy2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/LBP.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../pythonProject/LBP.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/Q-KNN.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/Resume-1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../pythonProject/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/qknnClassifierNew.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../pythonProject/qknnClassifierNew.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/Surprise/Training_15950.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/Surprise/Training_163503.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/Surprise/Training_170069.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/Surprise/Training_191269.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/Surprise/Training_220550.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/Surprise/Training_238687.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/Surprise/Training_320784.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/Surprise/Training_336818.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/Surprise/Training_348814.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/Surprise/Training_353184.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/Surprise/Training_359386.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/Surprise/Training_372122.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/Surprise/Training_374584.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/Surprise/Training_377657.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/Surprise/Training_387312.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/Surprise/Training_438558.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/Surprise/Training_44083.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/Surprise/Training_464732.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/Surprise/Training_484328.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/Surprise/Training_8796.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/angry/Training_267631.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/angry/Training_345125.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/angry/Training_364963.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/angry/Training_397587.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/angry/Training_426842.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/angry/Training_434813.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/angry/Training_435383.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/angry/Training_450201.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/angry/Training_556531.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/angry/Training_596387.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/disgust/Training_1070239.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/disgust/Training_1654496.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/disgust/Training_2408820.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/disgust/Training_26571048.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/disgust/Training_26971398.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/disgust/Training_27046033.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/disgust/Training_27171859.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/disgust/Training_27222615.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/disgust/Training_27502021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/disgust/Training_27574839.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/disgust/Training_27695321.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/disgust/Training_27772190.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/disgust/Training_28365203.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/disgust/Training_28653785.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/disgust/Training_3566649.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/disgust/Training_5420780.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/disgust/Training_5760281.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/disgust/Training_680349.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/fear/Training_308765.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/fear/Training_311686.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/fear/Training_318555.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/fear/Training_341092.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/fear/Training_358270.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/fear/Training_387737.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/fear/Training_484788.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/fear/Training_531060.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/happy/Test_80.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/happy/Training_160942.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/happy/Training_164916.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/happy/Training_169588.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/happy/Training_177442.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/happy/Training_184621.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/happy/Training_185749.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/happy/Training_195994.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/happy/Training_309009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/happy/Training_335906.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/happy/Training_351152.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/happy/Training_354659.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/happy/Training_355217.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/happy/Training_371241.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/happy/Training_395846.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/happy/Training_795400.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/happy/Training_799909.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/happy/Training_808814.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/happy/Training_815036.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/happy/Training_830377.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/happy/Training_831592.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/happy/Training_832034.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/neutral/Training_140408.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/neutral/Training_147934.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/neutral/Training_156494.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/neutral/Training_199533.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/neutral/Training_221103.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/neutral/Training_222237.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/neutral/Training_242815.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/neutral/Training_245243.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/neutral/Training_98123.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/sad/Training_1088995.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/sad/Training_1121862.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/sad/Training_1143303.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/sad/Training_1198552.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/sad/Training_1201574.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/sad/Training_1207013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/sad/Training_1357189.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/sad/Training_1361521.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/sad/Training_1362985.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Class/sad/Training_1369050.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Test_13.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Test_14.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Test_15.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Test_16.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Test_17.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Test_18.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Test_20.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Test_21.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Test_22.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Test_23.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Test_24.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Test_25.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Test_26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Test_27.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Test_28.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Test_29.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Test_30.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/upload/Test_5.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2cWja7YWAVdTeaS290033kUCNGk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Final_Year_Project&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\snehal\PycharmProjects\FacialEmotionClassificationNew" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.KNN_LBP">
+    <configuration name="KNN_LBP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FacialEmotionClassificationNew" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KNN_LBP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="QKNN_LBP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FacialEmotionClassificationNew" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QKNN_LBP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data_preprocess" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FacialEmotionClassificationNew" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_preprocess.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="knn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FacialEmotionClassificationNew" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/knn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="FacialEmotionClassificationNew" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="qknn_new" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FacialEmotionClassificationNew" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qknn_new.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.KNN_LBP" />
+        <item itemvalue="Python.knn" />
+        <item itemvalue="Python.qknn_new" />
+        <item itemvalue="Python.data_preprocess" />
+        <item itemvalue="Python.QKNN_LBP" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7877450-8ccf-49e5-b939-c5b45a784018" name="Changes" comment="" />
+      <created>1708234288262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708234288262</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data_preprocess.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data_preprocess.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
